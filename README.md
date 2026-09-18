@@ -1,10 +1,14 @@
 # revertable
 
-> Build boldly. Keep it revertable.
+> Build boldly. Keep it **revertable**.
 
 ### Riu Salze · Riu Salze Studio
 
-*Riu Salze* is a Catalan-inspired identity that translates the sound, meaning, and structure of my Korean name into a Western linguistic form. *Riu* naturally echoes the sound of my surname, **Ryu**.
+Riu Salze is a Catalan-inspired identity that reinterprets the sound and meaning of my Korean name through a different linguistic lens.
+
+Riu, Catalan for “river,” naturally echoes the sound of my surname, Ryu, while also reflecting the water imagery carried by my given name. Salze, meaning “willow,” mirrors the imagery associated with my Korean surname.
+
+Rather than being a direct translation, Riu Salze is a linguistic reconstruction — preserving the sound, imagery, and identity of the original name without reproducing it literally — more or less.
 
 > **Observe the structure.**  
 > **Understand the structure.**  
@@ -18,7 +22,8 @@ I treat programming languages and frameworks as implementation media. My primary
 
 I specialize in turning complex legacy systems into clear, observable, and reusable architectural flows.
 
-Based in Seoul, South Korea, I treat human language as a medium for design, collaboration, and execution. I use AI to build across linguistic and geographical boundaries.
+I treat human language as a medium for design, collaboration, and execution. **With AI** — **or whatever comes after it** — I build across linguistic and geographical boundaries.
+The work travels better than I do, though — if you want to find me in person, you’ll still have to come to Seoul.
 
 ## Engineering Notes
 
