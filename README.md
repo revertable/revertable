@@ -80,5 +80,9 @@ It remains as the predecessor to Codex JSONL Observatory.
 ## Contact — Alright. I, I, I... think I'm ready.
 
 - Email: riusalze [at] gmail [dot] com
-- GitHub: [github.com/revertable](https://github.com/revertable)
 - LinkedIn: [Riu Salze](https://www.linkedin.com/in/riusalze)
+- Cosmic Horizon: [Engineering Notes](https://riu-salze-studio.gitbook.io/cosmic-horizon/) — Wait... why are *you* here?
+
+> See? I did say **“For now.”**
+>
+> Alright. Time to **revert**.
