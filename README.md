@@ -36,7 +36,7 @@ The work travels better than I do, though — if you want to find me in person, 
 
 ## Featured Projects
 
-### [Codex JSONL Observatory](https://github.com/revertable/codex-jsonl-observatory)
+### [Codex Session Observatory](https://github.com/revertable/codex-session-observatory)
 
 > **A viewer is only the surface. What matters is what survives after the session ends.**
 
@@ -69,13 +69,13 @@ That idea comes directly from **Cosmic Horizon**: observe the work, ground it in
 
 Codex Chat Viewer was my first concrete step as a product engineer in this direction. Instead of just complaining that reviewing local Codex logs was inconvenient, I started building a tool to make the work easier to inspect, search, filter, and export.
 
-It remains as the predecessor to Codex JSONL Observatory.
+It remains as the predecessor to Codex Session Observatory.
 
 * Built with Kotlin/JVM and Swing
 * Focused on local-first Codex session log viewing
 * Turned raw JSONL logs into readable chat-style transcripts
 * Started from a direct workflow friction I experienced while using Codex CLI
-* Preserved as the earlier implementation before Codex JSONL Observatory
+* Preserved as the earlier implementation before Codex Session Observatory
 
 ## Contact — Alright. I, I, I... think I'm ready.
 
