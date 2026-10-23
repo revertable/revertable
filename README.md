@@ -6,7 +6,7 @@
 
 Riu Salze is a Catalan-inspired identity that reinterprets the sound and meaning of my Korean name through a different linguistic lens.
 
-Riu, Catalan for “river,” naturally echoes the sound of my surname, Ryu, while also reflecting the water imagery carried by my given name. Salze, meaning “willow,” mirrors the imagery associated with my Korean surname.
+Riu (Catalan for “river” 🏞️) naturally echoes the sound of my surname, Ryu, while also reflecting the water imagery carried by my given name. Salze (meaning “willow” 🌳) mirrors the imagery associated with my Korean surname 🇰🇷.
 
 Rather than being a direct translation, Riu Salze is a linguistic reconstruction — preserving the sound, imagery, and identity of the original name without reproducing it literally — more or less.
 
