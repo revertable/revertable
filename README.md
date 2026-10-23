@@ -40,13 +40,13 @@ The work travels better than I do, though — if you want to find me in person, 
 
 > **A viewer is only the surface. What matters is what survives after the session ends.**
 
-🛰️ A local desktop tool for reading Codex CLI JSONL sessions and exporting versionable worklog bundles.
+🛰️ A local desktop tool for Codex CLI and Codex Windows app JSONL sessions, with transcript viewing, selective message collection, and full-session worklog export.
 
 A Codex session is also a trace of your reasoning — the assumptions you made, the directions you chose, the corrections you introduced, and the decisions that shaped what came next.
 
 AI produces results within that path, but the path itself is yours.
 
-**Export Worklog** is my way of preserving that path. It turns a Codex session into structured records grouped by `[YOU]` request boundaries, so the work can survive beyond the chat window as something reviewable, understandable, and versionable.
+**Export Worklog** is my way of preserving that path. It turns a complete Codex session into structured records grouped by `[YOU]` request boundaries, so the work can survive beyond the chat window as something reviewable, understandable, and versionable.
 
 The feature itself is deliberately simple. You could probably build something like it too.
 
@@ -56,10 +56,13 @@ In AI pair programming, the code is only part of the work. Prompts, decisions, c
 
 That idea comes directly from **Cosmic Horizon**: observe the work, ground it in evidence, and leave enough context behind for the next person — including your future self — to understand what actually happened.
 
-* Built with Rust, Tauri, Svelte, and TypeScript
-* Reads local Codex CLI JSONL session logs
-* Exports worklog bundles grouped by `[YOU]` request boundaries
-* Preserves AI-assisted decisions and verification traces as reviewable records
+**Collection** offers another way to work with those records. It lets you select individual messages and copy them together while preserving their original content and transcript order. Unlike Export Worklog, it is a temporary, selective workspace rather than a full-session archive. Neither workflow modifies the source JSONL.
+
+- Built with Rust, Tauri, Svelte, and TypeScript
+- Reads local Codex CLI and Codex Windows app JSONL sessions
+- Collects selected transcript messages for clipboard copying without editing or reordering them
+- Exports complete sessions as versionable worklog bundles grouped by `[YOU]` request boundaries
+- Preserves AI-assisted decisions and verification traces as reviewable engineering records
 
 > You use Codex CLI, right? Still reading raw JSONL without a viewer? Bold choice. It’s open source, by the way. The price is unlikely to get better. **Time is money, friend.**
 
